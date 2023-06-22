@@ -1,0 +1,8 @@
+C:\Users\ASUS\source\repos\SinglonPatternConsoleApp\SinglonPatternConsoleApp\bin\Debug\SinglonPatternConsoleApp.exe.config
+C:\Users\ASUS\source\repos\SinglonPatternConsoleApp\SinglonPatternConsoleApp\bin\Debug\SinglonPatternConsoleApp.exe
+C:\Users\ASUS\source\repos\SinglonPatternConsoleApp\SinglonPatternConsoleApp\bin\Debug\SinglonPatternConsoleApp.pdb
+C:\Users\ASUS\source\repos\SinglonPatternConsoleApp\SinglonPatternConsoleApp\obj\Debug\SingletonPatternConsoleApp.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\SinglonPatternConsoleApp\SinglonPatternConsoleApp\obj\Debug\SingletonPatternConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\SinglonPatternConsoleApp\SinglonPatternConsoleApp\obj\Debug\SingletonPatternConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\SinglonPatternConsoleApp\SinglonPatternConsoleApp\obj\Debug\SinglonPatternConsoleApp.exe
+C:\Users\ASUS\source\repos\SinglonPatternConsoleApp\SinglonPatternConsoleApp\obj\Debug\SinglonPatternConsoleApp.pdb
